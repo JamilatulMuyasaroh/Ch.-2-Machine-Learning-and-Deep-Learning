@@ -71,7 +71,7 @@ This repository includes a collection of practical assignments designed to devel
 To run each notebook:
 
 1. Open **Google Colab**.
-2. Upload the notebook files (`02_Kelompok_B_1.ipynb` to `02_Kelompok_B_4.ipynb`).
+2. Upload the notebook files (`02_Kelompok_G_1.ipynb` to `02_Kelompok_G_4.ipynb`).
 3. Execute each cell in sequence, following the provided instructions within each notebook for a smooth setup and analysis.
 
 This repository is ideal for hands-on practice with **machine learning** and **deep learning** in real-world scenarios, covering essential techniques like **classification**, **clustering**, **regression**, and **fraud detection**.
